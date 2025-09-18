@@ -8,7 +8,7 @@ Helps track properties, manage leads, automate follow-ups, and close deals.
 
 ## Project Phases
 
-- **Phase 1: Problem Understanding & Industry Analysis** ✅ Completed
+- **Phase 1: Problem Understanding & Industry Analysis**
 - Phase 2: Org Setup & Configuration
 - Phase 3: Data Modeling & Relationships
 - Phase 4: Process Automation
