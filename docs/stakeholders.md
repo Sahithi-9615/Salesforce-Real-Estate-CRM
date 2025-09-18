@@ -7,3 +7,4 @@
 - **Customer Service** → Handles support after sale.
 - **Clients/Buyers** → Send inquiries, book visits, interact via portal.
 
+![Stakeholder Analysis](image-1.png)

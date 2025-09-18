@@ -8,3 +8,4 @@
 5. Deal closed → property sold.
 6. Post-sale support provided.
 
+![Business Process](image.png)
