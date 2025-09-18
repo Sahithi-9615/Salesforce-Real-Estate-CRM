@@ -8,5 +8,3 @@
 5. Deal closed → property sold.
 6. Post-sale support provided.
 
-## Flow Diagram
-(To be added later as `business_process.png`)

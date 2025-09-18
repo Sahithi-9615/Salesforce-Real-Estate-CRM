@@ -7,5 +7,3 @@
 - **Customer Service** → Handles support after sale.
 - **Clients/Buyers** → Send inquiries, book visits, interact via portal.
 
-## Stakeholder Diagram
-(You can draw later using draw.io or Lucidchart and save as `stakeholders.png`)
