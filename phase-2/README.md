@@ -15,9 +15,9 @@
 - Standard Fiscal Year starting in January
 
 ## Users Created
-- Agent User (agent@example.com) with Agent Profile and Agent role
-- Sales Manager (manager@example.com) with Manager Profile and Sales Manager role
-- Customer Service (support@example.com) with Standard User profile and Customer Service role
+- Agent User (agent@horizonrealestate.com) with Agent Profile and Agent role
+- Sales Manager (manager@horizonrealestate.com) with Manager Profile and Sales Manager role
+- Customer Service (support@horizonrealestate.com) with Standard User profile and Customer Service role
 
 ## Profiles Created
 - Agent Profile (cloned from Standard User, limited permissions)
